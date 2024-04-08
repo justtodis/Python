@@ -1,0 +1,11 @@
+import math # math es un modulo para trabajar con numeros
+
+print(round(1.3)) # round es para redondear
+
+print(abs(-77)) # es para sacar numeros absolutos. Basicamente numeros positivos
+
+print(math.ceil(1.1)) # es para llevarlo al numero entero proximo mas cercano
+print(math.floor (1.99)) # es para llevarlo al numero entero hacia abajo mas cercano
+print(math.isnan(23)) # insan es para preguntar si NO es un numero
+print(math.pow(10, 3)) # es para elevar un numero a otro (10 elevado a 3)
+print(math.sqrt(9)) # es para sacar la raiz cuadrada
