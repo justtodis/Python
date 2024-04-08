@@ -1,4 +1,4 @@
-for numero in range(5): # for le daria el valor que dice range y range dice 5 
+for numero in range(5): # for le daria el valor que dice range y range dice 5.            RANGE(5) ES UN ITERABLE
     print(numero) # por lo cual se printearia numero que seria 0,1,2,3,4
 
 for numero in range(5):
@@ -22,5 +22,5 @@ else: # este else es que si despues del break al no encontrar el numero entonces
 
 
 
-for char in "Ultimate python": 
-    print(char)
+for ejemplo in "Ultimate python": 
+    print(ejemplo)
