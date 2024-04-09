@@ -22,5 +22,6 @@ else: # este else es que si despues del break al no encontrar el numero entonces
 
 
 
-for ejemplo in "Ultimate python": 
+for ejemplo in "Ultimate python":  # tambien con un string. El valor de ejemplo pasaria a ser "Ultimate python"
     print(ejemplo)
+
